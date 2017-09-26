@@ -1,6 +1,7 @@
 ﻿###################################################
 # 
-#     Read and print out provided error logs 
+#     Read and print out provided error logs
+#     Set variables in Octopus Deploy for use in Email communications
 #
 ###################################################
 
